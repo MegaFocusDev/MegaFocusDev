@@ -1,6 +1,5 @@
-MegaFocus
-
-**`A Solo Game Developer`**
+<h1 align="center">Hi 👋, I'm MegaFocus</h1>
+<h3 align="center">A Solo Game Developer</h3>
 
 I’m a solo game developer passionate about creating engaging and immersive gameplay experiences using Unity.
 
