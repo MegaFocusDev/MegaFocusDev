@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MegaFocus</h1>
+<h1 align="center">Hi <img src="https://github.com/MegaFocusDev/MegaFocusDev/blob/main/Hi.gif" width="30px">, I'm MegaFocus</h1>
 
 <h2 align="center">🧰 Languages and Tools</h2>
 
