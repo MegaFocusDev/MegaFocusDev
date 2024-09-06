@@ -28,7 +28,3 @@
 <h4 align="center">Top langs</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaFocusDev&langs_count=10&theme=radical&layout=compact" /></p>
-
-<h4 align="center">Profile stats</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MegaFocusDev&show_icons=true&theme=radical" /></p>
