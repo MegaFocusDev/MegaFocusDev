@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/MegaFocusDev/MegaFocusDev/blob/main/Hi.gif" width="30px">, I'm MegaFocus</h1>
 
-<div align="center"> <p><code>I am a  solo game developer with a passion for programming, cyber security, and AI.</code></p> <p><code>I am also a great supporter of open source projects.</code></p></div>
+<div align="center"> <p><code>I am an Electrical Electronic Engineering(EEE) student at Bilkent University.
+  I am also a Programming, Cybersecurity, HomeLab and AI enthusiast. In my free time, I try to improve myself by engaging with my interests and participating in other activities where I can improve myself.</code></p></div>
 
 <h2 align="center">🧰 Languages and Tools</h2>
 
