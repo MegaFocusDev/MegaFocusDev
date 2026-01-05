@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/MegaFocusDev/MegaFocusDev/blob/main/Hi.gif" width="30px">, I'm MegaFocus</h1>
 
 <div align="center"> <p><code>I am an Electrical Electronic Engineering(EEE) student.
-  I am also a Programming and HomeLab enthusiast. In my free time, I try to improve myself by engaging with my interests and participating in other activities where I can improve myself.</code></p></div>
+  In my free time, I try to improve myself by engaging with my interests and participating in other activities where I can improve myself.</code></p></div>
 
 <h2 align="center">🧰 Languages and Tools</h2>
 
