@@ -3,8 +3,6 @@
 <div align="center"> <p><code>I am an Electrical Electronic Engineering(EEE) student.
   In my free time, I try to improve myself by engaging with my interests and participating in other activities.</code></p></div>
 
-<h2 align="center">🧰 Languages and Tools</h2>
-
 <div align="center">
 <img  alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img  alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -27,14 +25,3 @@
 <img  alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
 <img  alt="PremierePro" src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 <div/>
-
-
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{MegaFocusDev}/count.svg"/></p>
-
-<h4 align="center">Top langs</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MegaFocusDev&langs_count=10&theme=radical&layout=compact" /></p>
